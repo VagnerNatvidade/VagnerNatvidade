@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://i.imgur.com/UPUPvnZ.png"/>
+<img align="right" src="https://i.imgur.com/UPUPvnZ.png"/>
 
 # Olá 👋, eu sou Vagner Junior
 
