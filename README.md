@@ -1,8 +1,7 @@
 <img align="right" height='560rem' src="https://i.imgur.com/UPUPvnZ.png"/>
 
-# Olá 👋, eu sou Vagner Junior
+# Hi 👋, I'm Vagner Junior
 
-- Estudante de Desenvolvimento Web pela [Rocketseat](https://github.com/Rocketseat) 🚀
-- Focado em **JavaScript, Node.JS & React** ⚛️
-- Em busca do primeiro job 💼
-
+- Student of Web Development at [Rocketseat](https://github.com/Rocketseat) 🚀
+- Focused in **JavaScript, Node.JS & React** ⚛️
+- I want to get my first job  💼
