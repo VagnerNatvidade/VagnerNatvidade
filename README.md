@@ -2,6 +2,6 @@
 
 # Hi 👋, I'm Vagner Junior
 
-- Student of Web Development at [Rocketseat](https://github.com/Rocketseat) 🚀
-- Focused in **JavaScript, Node.JS & React** ⚛️
+- Student of Web Development 🚀
+- Focused in **React.JS, JavaScript, HTML & CSS** ⚛️
 - I want to get my first job  💼
